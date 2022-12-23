@@ -5,7 +5,7 @@ pylint==2.15.9
 pylama==7.7.1
 tox==4.0.16
 tox-docker==1.7.0
-flake8==3.9.2
+flake8==6.0.0
 flake8-single-quotes==0.1.0
 flake8-logging-format==0.9.0
 flake8-docstrings==1.6.0
