@@ -1,7 +1,7 @@
 -r runtime.txt
 Sphinx==5.3.0
 sphinx-rtd-theme
-pylint==2.15.9
+pylint==2.16.2
 pylama==8.4.1
 tox==4.0.16
 tox-docker==3.1.0
